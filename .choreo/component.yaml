@@ -3,5 +3,5 @@ schemaVersion: 1.0
 endpoints:
 - name: my-service-endpoint
   service:
-     port: 80
+     port: 10086
   type: REST
